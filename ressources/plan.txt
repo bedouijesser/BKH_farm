@@ -1,0 +1,242 @@
+Projet: Ferme -BKH-
+
+---Taches---
+-Min 6 pages(interface="Accueil.html")
+-liens(circ entre pages+ ancres+ lien ext) [<a>]
+-chaque page possède une balise <title> (+icone) [<title>]
+-images(+images lien) [<img>]
+-couleur(fond d'écran +titre+sous titre)
+-mise en forme(alignement +attr(gras/italique..)+polices et tailles)
+-listes
+-Tableaux de données
+-formulaires(bouton radio/case à coucher...)
+-la Page Accueil comporte au min 2 frames(pour accéder aux autres pages+page active)
+-les fichiers seront déposés dans "-BKH-/"
+-attention aux liens et blah blah
+-un + pour l'esthétique
+
+Dead-end:22 Avril 2019
+
+
+---Accueil---
+-titre + icon
+ -------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+|--------------------------------------------------------------------------------										|
+|                                                                                                   |
+|	<img-Bienvenu>		                             |
+|	      + text				           |
+|					           |
+|                                                                                                   |
+|					           |
+|--------------------------------------------------------------------------------
+|<h2>présentation générale </h2>		           |
+|            stuff stuff stuff                                                                |
+|					           |
+|					           |
+|					           |
+|                                                                                                   |
+|-------------------------------------------------------------------------------|
+| -Enter- 	Voir stock + lien page 2		           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|copyright				nom/groupe        |
+ --------------------------------------------------------------------------------
+Page 2-Stock-
+titre+ icon
+------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------										
+| Stock                                                                                          |
+|	Animaux: -Vente	                                               |
+|	                 -Produits			           |
+|					           |
+|                Fruits/Légumes :-Vente                                              |
+|		        -Produits	 	           |
+|			   		           |
+|					           |
+|                                                                                                   |
+|					           |
+|	Pépinière ; Voir l'auction		           |
+|					           |
+|                                                                                                   |
+|					           |
+|	Astuces Agricultures			           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
+Page 3 -Animaux: Vente-
+ ------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------
+| Animaux en Stock            Intro(traitement des animaux...)       |
+|<bouton> liste(+ref): -Poules		                             |
+|	            -Cailles      			           |
+|	            -Lapins			           |
+|               	            -Abeilles  	                                               |
+|	            -Vaches         		 	           |
+|	            -Dindes	   		           |
+|	            -Canards			           |
+|                            -Moutons/chèvres                                          |
+|	            -Oies			           |
+|					           |
+|					           |
+|                                                                                                   |
+|					           |
+|					           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
+Page 4 -Animaux; produits
+ ------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------
+| Produits en Stock                    Intro(les machines+préparation)|
+|<bouton> liste(+ref): -viande(poules /cailles...)                       |
+|	            -Oeufs      			           |
+|	            -Engrais organiques		           |
+|               	            -Miel(+dérivés)  	                             |
+|	            -Lait         		 	           |
+|	                     	   		           |
+|	            		  		           |
+|                             		                                               |
+|	            				           |
+|					           |
+|					           |
+|                                                                                                   |
+|					           |
+|					           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
+
+Page 5 Fruits/légumes :Vente;
+ ------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------
+| Produits en Stock                    Intro(les machines+préparation)|
+|<bouton> liste(+ref): -Raisin 		                             |
+|	            -Figues      			           |
+|	            -Grenades			           |
+|               	            -Orange  	                                               |
+|	            -Pommes         		           |
+|	            -Pastèques	   		           |
+|	            -Pèches		  	           |
+|                            -Citron 		                             |
+|	            -Melon			           |
+|	            --légumes--			           |
+|	            -Citrouille			           |
+|                            -Piment                                                           |
+|	            -Pomme-de-Terrre		           |
+|	            -oignant/ailles 			           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
+
+Page  6-fruits/légumes: produits
+ ------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------
+| Produits en Stock                    Intro(les machines+préparation)|
+|<bouton> liste(+ref): -Confiture                 	           |
+|	            -Produits séchées      		           |
+|	            -Jus		                             |
+|               	              		                                               |
+|	                     		 	           |
+|	            		   		           |
+|	            		  		           |
+|                             		                                               |
+|	            				           |
+|					           |
+|					           |
+|                                                                                                   |
+|					           |
+|					           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
+page 7- pépinière
+ 
+ ------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------
+| Produits en Stock                    Intro(les machines+préparation)|
+|<bouton> liste(+ref): 		                 	           |
+|	            		      		           |
+|	            				           |
+|               	              		                                               |
+|	                     		 	           |
+|	            		   		           |
+|	            		  		           |
+|                             		                                               |
+|	            				           |
+|					           |
+|					           |
+|                                                                                                   |
+|					           |
+|					           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
+Page 8- Astuces Agricultures
+
+ ------------------------------------------------------------------------------
+|  -BKH-                                                         <BOUTON>       |
+|				 - liste-pages -       |
+|					           |
+ --------------------------------------------------------------------------------
+| 					           |
+| FAQ;				                 	           |
+|	            		      		           |
+|Q1;	            				           |
+|      A1:         	              	                                               |
+|	                     		 	           |
+|	            		   		           |
+|Q2;	            		  		           |
+|       A2;                      	                                               |
+|	            				           |
+|					           |
+|					           |
+|Q3;                                                                                            |
+|        A3;					           |
+|					           |
+|					           |
+|                                                                                                   |
+|				                             |
+|					           |
+|					           |
+ --------------------------------------------------------------------------------
